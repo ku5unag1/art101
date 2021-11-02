@@ -1,5 +1,5 @@
 //Author: Nkem Ndidi
-//Since 28 October 2021
+//Since 2 November 2021
 //Lisence: Public Domain
 //Summary: JavaScript for the Web
 //Description: The purpose of this lab is to experiment with manipulating DOM elements
