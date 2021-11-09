@@ -49,7 +49,7 @@ h3 {font-family: "Comic Sans Ms";
 font-size: 75px;
 text-align: center;
 color: #91f3fa;
-}
+};
 
 h4 {font-family: "Comic Sans Ms";
 font-size: 75px;
@@ -61,4 +61,25 @@ h5 {font-family: "Comic Sans Ms";
 font-size: 75px;
 text-align: center;
 color: #91f3fa;
+}
+
+.special#challenge {
+  background-color: #169c39;
+  border-radius: 15px;
+  padding: 25px;
+  color:#5fa371;
+}
+
+.special#problem {
+  background-color: #169c39;
+  border-radius: 15px;
+  padding: 25px;
+  color:#5fa371;
+}
+
+.special#results {
+  background-color: #169c39;
+  border-radius: 15px;
+  padding: 25px;
+  color:#5fa371;
 }
