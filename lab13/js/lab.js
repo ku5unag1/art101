@@ -1,4 +1,4 @@
-//Author: Nkem Ndidi with refrences from Wes's HTML and JS files
+//Author: Nkem Ndidi with refrences from Wes's HTML and JS files and with help from Ashley Lu
 //Since 23 November 2021
 //Lisence: Public Domain
 //Summary: Loops
