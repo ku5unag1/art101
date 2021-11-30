@@ -1,4 +1,4 @@
-//Author: Nkem Ndidi and Ashley
+//Author: Nkem Ndidi and Ashley Lu
 //Since 30 November 2021
 //Lisence: Public Domain
 //Summary: AJAX
