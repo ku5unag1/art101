@@ -19,7 +19,7 @@ function comicObj() {
       var titleTxt = data.title;
       $("#title").html(titleTxt);
       var imgUrl = data.img;
-      $("#image").html("<img src=" + imgUrl + ">");
+      $("#image").html("<img src=" + https:sxkcd.com/info.0.json + ">");
     },
     //when the api is unsuccessful
     error: function(jqXHR, textStatus, errorThrown) {
