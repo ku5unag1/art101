@@ -19,9 +19,7 @@ function comicObj() {
       var titleTxt = data.title;
       $("#title").html(titleTxt);
       var imgUrl = data.img;
-      var imgTag = "<img src=" + imgUrl + ">";
-      console.log(imgUrl, imgTag);
-      $("#image").html(imgTag);
+      $("#image").html("<img src=" + imgUrl + ">");
     },
     //when the api is unsuccessful
     error: function(jqXHR, textStatus, errorThrown) {
